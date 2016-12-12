@@ -7,6 +7,8 @@ Prefered format:
 
 -
 
+```
 # <Software type> (e.g. Accounting, Bots, Etc)
 (alphabetical list)
 <startup name> - <founder name> - <HN username> - <elevator pitch>
+```
